@@ -13,7 +13,7 @@ RepoUp is a Python tool/script that automates the backup of GitHub repositories 
 
 1. **Clone the RepoUp Repository**
     ```bash
-    git clone https://github.com/yourusername/RepoUp.git
+    git clone https://github.com/bitArtisan1/RepoUp-Python-Script-To-Backup-Repositories.git
     cd RepoUp
     ```
 
