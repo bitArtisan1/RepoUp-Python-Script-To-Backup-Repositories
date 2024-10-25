@@ -8,6 +8,12 @@
 
 RepoUp is a Python tool/script that automates the backup of GitHub repositories for a user. It clones repositories, creates bundles, and downloads release assets, providing a comprehensive backup solution.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f02f5dd8-b411-4bd5-b3a2-0a335d771fb0" alt="netDigger Logo" />
+  <p><strong><em>Python Script For Fully Backing Up Repositories Automatically.</em></strong></p>
+</div>
+
+
 ## Features
 
 - **Clone Repositories**: Clone GitHub repositories as mirrors.
